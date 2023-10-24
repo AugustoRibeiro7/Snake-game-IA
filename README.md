@@ -18,7 +18,7 @@ Este projeto foi desenvolvido durante um minicurso de Inteligência Artificial e
 
 O Snake Game IA, é um projeto ao qual você tem duas opções:
 
-    • Executar o arquivo main.py para ativar o clássico jogo da cobrinha, ao qual poderá controlar e se divetir normalmente;
+• <b>Executar o arquivo main.py</b> para ativar o clássico jogo da cobrinha, ao qual poderá controlar e se divetir normalmente;
 
-    • Executar o arquivo agent.py para ativar o treinamento da IA com o objetivo de perseguir a comida sem resultar em um game over. Além da interface da IA treinando no jogo, também será exibido um gráfico para acompanhar a quantidade de tentativas geradas e o respectivo score em cada uma delas.
+• <b>Executar o arquivo agent.py</b> para ativar o treinamento da IA com o objetivo de perseguir a comida sem resultar em um game over. Além da interface da IA treinando no jogo, também será exibido um gráfico para acompanhar a quantidade de tentativas geradas e o respectivo score em cada uma delas.
  
